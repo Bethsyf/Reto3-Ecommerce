@@ -2,254 +2,242 @@
     "products": [
         {
             "id": 1,
-            "name": "Alimento de pollo para perros adultos en bolsa - 2kg",
-            "marca": "Chunky",
+            "name": "Moño Rojo Doble",
             "price": 11900,
-            "image": "https://lares.com.co/wp-content/uploads/2020/06/Chunky-adulto-polloEDIT.png",
-            "category": "dog",
-            "description": "Chunky Perros es un producto creado para la alimentación de perros en todas las etapas de su vida. Chunky cuenta con un portafolio completo de productos secos y húmedos que puedes mezclar para consentirlos y alimentarlos."
+            "image": "https://t3.ftcdn.net/jpg/01/13/33/88/240_F_113338839_o1Pe1nAOVxeC2low7xISWBNcgMvukgSO.jpg",
+            "category": "accessories",
+            "description": "Hermoso Moño rojo elaborado en dril, de 12cm de ancho y 10cm de alto, con pinza caiman"
         },
         {
             "id": 2,
-            "name": "Alimento para perros adultos mayores en bolsa - 1.5kg",
-            "marca": "Chunky",
+            "name": "Moño Estampado Rosa",
             "price": 22200,
-            "image": "https://petmas.masfinca.com/wp-content/uploads/2017/06/CHUNKY-ADULTOS-MAYORES.jpg",
-            "category": "dog",
-            "description": "La fórmula especial de Chunky Adultos Mayores, contiene partículas blandas que ayudan a proteger los dientes y encías de tu peludo. Su fuente principal de proteína es carne de pollo que garantiza una alta palatabilidad. Contiene DH Pack para proteger el estómago y tracto digestivo de tu perro"
+            "image": "https://t4.ftcdn.net/jpg/00/31/23/95/240_F_31239541_D8Pyoi4dxffsp90pk4VcGjPPGNT41WY4.jpg",
+            "category": "accessories",
+            "description": "Moño doble con estampado a cuadros de popelina y bordado a los lados, de 12cm de ancho y 10cm de alto"
         },
         {
             "id": 3,
-            "name": "Alimento para perros cachorros en bolsa - 2kg",
-            "marca": "Chunky",
+            "name": "Moño Rojo sencillo",
             "price": 18800,
-            "image": "https://laholandapets.com/wp-content/uploads/2021/03/Chunky-cachorro.jpg",
-            "category": "dog",
-            "description": "Chunky es un producto seco para la alimentación de perros en todas las etapas de su vida. Recomendado especialmente para ser utilizado entre los 2 y 12 meses."
+            "image": "https://t4.ftcdn.net/jpg/00/97/20/01/240_F_97200161_6lV9acRv267p32gYCACiwA5C9JF89S65.jpg",
+            "category": "accessories",
+            "description": "Moño Rojo sencillo grande elaborado en tela gamuzada, de 16cm de ancho y 12cm de largo"
         },
         {
             "id": 4,
-            "name": "Alimento de carne, arroz y salmon para perros adultos en bolsa - 1.5kg",
-            "marca": "Chunky",
+            "name": "Moño Multicolor con apliques",
             "price": 19800,
-            "image": "https://www.larebajavirtual.com/images/productos/sii/F/300x300/chunky_adulto_cordero_y_salmon-118061-1571430093.png",
-            "category": "dog",
-            "description": "Chunky es un producto seco para la alimentación de perros en todas las etapas de su vida. Recomendado especialmente para ser utilizado entre los 2 y 12 meses."
+            "image": "https://t4.ftcdn.net/jpg/02/53/37/83/240_F_253378327_4lugavX70rtRea3roTQAnHj4CYVy0EMu.jpg",
+            "category": "accessories",
+            "description": "Divertido Moño multicolor elaborado en cinta falla, extragrande de 20cm de ancho por 12cm de largo"
         },
         {
             "id": 5,
-            "name": "Dog Chow cachorros razas medianas y grandes - 4kg",
-            "marca": "Dog Chow",
+            "name": "Moño Negro en Satin",
             "price": 48900,
-            "image": "https://petlandscol.com/wp-content/uploads/2020/11/Diseno-sin-titulo-87.png",
-            "category": "dog",
-            "description": "DOG CHOW CACHORROS RAZAS MEDIANAS Y GRANDES está específicamente formulado con los nutrientes e ingredientes de calidad que su cuerpo necesita para crecer sano y fuerte "
+            "image": "https://t4.ftcdn.net/jpg/04/53/74/87/240_F_453748729_4XPtXFu9rWpl8qOzwAeWJbOZLoYDMYum.jpg",
+            "category": "accessories",
+            "description": "Elegante Moño Negro elaborado en satin, de 15cm de ancho y 12cm d largo"
         },
         {
             "id": 6,
             "name": "Dog Chow cachorros razas mini o pequeños sin colorantes - 4kg",
-            "marca": "Dog Chow",
             "price": 48900,
-            "image": "https://petlandscol.com/wp-content/uploads/2021/01/Diseno-sin-titulo-2021-01-12T143256.362.png",
-            "category": "dog",
+            "image": "https://t4.ftcdn.net/jpg/04/65/92/77/240_F_465927748_i8fQgbG3LpLqRvfEC3AOkLHMXPShU04b.jpg",
+            "category": "accessories",
             "description": "PURINA DOG CHOW® Cachorros Minis y Pequeños nutrición con Extralife específicamente diseñada para el óptimo desarrollo de tu cachorro mini o pequeño que ayuda a mejorar su calidad de vida desde adentro hacia afuera de forma visible. "
         },
         {
             "id": 7,
             "name": "Alimento Dog Chow para perros adultos medianos y grandes - 4kg",
-            "marca": "Dog Chow",
             "price": 48900,
-            "image": "https://petlandscol.com/wp-content/uploads/2021/01/Diseno-sin-titulo-2021-01-12T104843.857.png",
-            "category": "dog",
+            "image": "https://t3.ftcdn.net/jpg/03/40/90/74/240_F_340907490_mDNQ1DFz5qAbFI3ikR0y0Cm3F5ru8NMk.jpg",
+            "category": "accessories",
             "description": "El Alimento para perro Dog Chow Salud Visible Adultos Medianos y grandes viene con EXTRALIFE, una mezcla especial con antioxidantes, vitaminas y minerales para maximimar su calidad de vida. Alimento completo para perros adultos de razas medianas y grandes de 1 a 7 años de edad."
         },
         {
             "id": 8,
             "name": "Dog Chow Longevidad Adultos 7+ Todos Los Tamaños - 4kg",
-            "marca": "Dog Chow",
             "price": 48900,
-            "image": "https://petlandscol.com/wp-content/uploads/2021/01/Diseno-sin-titulo-2021-01-12T142204.806-300x300.png",
-            "category": "dog",
+            "image": "https://t4.ftcdn.net/jpg/03/41/04/55/240_F_341045583_OsEXBIndtWUCk40ozEURYYOJbbBqXUyl.jpg",
+            "category": "accessories",
             "description": "Dog chow longevidad adultos 7+, Ayuda a retrasar los signos de la edad, equilibra la flora intestinal. nutrición especializada que maximiza la calidad de vida de tu perro adulto de más de 7 años, rico en antioxidantes que ayuda a retrasar los signos de la edad."
         },
         {
             "id": 9,
             "name": "Agility Gold Grandes Cachorros - 1.5Kg",
-            "marca": "Agility Gold",
             "price": 25100,
-            "image": "https://petlandscol.com/wp-content/uploads/2020/11/Diseno-sin-titulo-47-300x300.png",
-            "category": "dog",
+            "image": "https://t4.ftcdn.net/jpg/02/26/68/47/240_F_226684749_tRyL21Ibd9UbI1R0mK27Fy16r52BKAs3.jpg",
+            "category": "accessories",
             "description": "Alimento super premium, formulado para el desarrollo completo de razas grandes, las cuales tienen un crecimiento lento. Tiene el balance ideal de minerales para el desarrollo de huesos fuertes. El sistema DHPACK fortalace el sistema inmunológico en esta etapa relevenate para su vida."
         },
         {
             "id": 10,
             "name": "Agility Gold Grandes Adultos - 1.5Kg",
-            "marca": "Agility Gold",
             "price": 25150,
-            "image": "https://petlandscol.com/wp-content/uploads/2020/11/Diseno-sin-titulo-82-300x300.png",
-            "category": "dog",
+            "image": "https://t3.ftcdn.net/jpg/03/41/04/50/240_F_341045024_1TKz6e1thDEIuYQja4JqxSOrGCH6fPUW.jpg",
+            "category": "accessories",
             "description": "Alimento super premium, formulado para el desarrollo completo de razas grandes, las cuales tienen un crecimiento lento, las fibras prebióticas favorecen la salud digestiva, suplementado con taurina para un adecuado funcionamiento cardíaco."
         },
         {
             "id": 11,
             "name": "Agility Gold Pequeños Cachorros - 1.5 Kg",
-            "marca": "Agility Gold",
             "price": 27900,
-            "image": "https://petlandscol.com/wp-content/uploads/2020/11/Diseno-sin-titulo-7-300x300.png",
-            "category": "dog",
+            "image": "https://t4.ftcdn.net/jpg/04/31/23/53/240_F_431235383_AXwnx7xyLr1CUD5MrJuI3fHmRpGXwKrx.jpg",
+            "category": "accessories",
             "description": "Alimento super premium, formulado para el desarrollo completo de razas pequeñas, las cuales tienen incrementado el catabolismo. Altamente palatable haciendo del destete una fácil conversión de alimento después de la leche materna. El sistema DHPACK fortalace el sistema inmunológico en esta etapa relevenate para su vida."
         },
         {
             "id": 12,
             "name": "Agility Gold Piel Grandes Adultos - 1.5 Kg",
-            "marca": "Agility Gold",
             "price": 27900,
-            "image": "https://petlandscol.com/wp-content/uploads/2020/12/Diseno-sin-titulo-2-300x300.png",
-            "category": "dog",
+            "image": "https://t4.ftcdn.net/jpg/02/97/75/95/240_F_297759537_toiuOGkYhrQwXryk8CcM0uCJMVNYkf3U.jpg",
+            "category": "accessories",
             "description": "Es un alimento delicioso compuesto de ingredientes como Salmón y cordero. Este alimento es altamente balanceado, de calidad y libre de granos."
         },
         {
             "id": 13,
             "name": "Comedero sencillo Capacidad 24oz",
-            "marca": "Doggy",
             "price": 20900,
-            "image": "https://petlandscol.com/wp-content/uploads/2021/01/Diseno-sin-titulo-2021-01-13T105445.110-300x300.png",
-            "category": "dog",
+            "image": "https://t4.ftcdn.net/jpg/02/97/75/95/240_F_297759556_91IiGI9NLBby2YwYZJaaqNlD88jGyFDx.jpg",
+            "category": "accessories",
             "description": "Comedero sencillo antideslizante con grabados 24oz color rojo"
         },
         {
             "id": 14,
             "name": "Comedero sencillo Capacidad 1.0qt",
-            "marca": "Doggy",
             "price": 15500,
-            "image": "https://petlandscol.com/wp-content/uploads/2021/01/Diseno-sin-titulo-2021-01-13T105016.936-300x300.png",
-            "category": "dog",
+            "image": "https://t4.ftcdn.net/jpg/03/16/63/71/240_F_316637109_VbAiU3HO7K3LKTZxzQeG7O3x1voVpKaB.jpg",
+            "category": "accessories",
             "description": "Comedero sencillo antideslizante con grabados en las paredes. Capacidad 1.0qt"
         },
         {
             "id": 15,
             "name": "Kong Perro Hueso de Caucho Classic",
-            "marca": "KONG",
             "price": 50500,
-            "image": "https://petlandscol.com/wp-content/uploads/2020/12/Diseno-sin-titulo-2020-12-12T174925.183-300x300.png",
-            "category": "dog",
+            "image": "https://t4.ftcdn.net/jpg/02/28/02/81/240_F_228028183_WKS3Cy13BDItmOOaMhLVQUJI31ExZEMv.jpg",
+            "category": "accessories",
             "description": "El KONG Goodie Bone™ es ideal para aquellos perros que se divierten masticando juguetes. Fabricado con la fórmula exclusiva de caucho rojo completamente natural KONG Classic, este hueso incluye los Goodie Grippers™ patentados que convierten a este juguete entretenido en todo un desafío que deleitará a su perro con los bocados que lleva en su interior, ya que puede rellenarse con las croquetas favoritas de su mascota. Barrita resistente y segura que satisface los instintos naturales de masticación Dinámicos Denta-Ridges"
         },
         {
             "id": 16,
             "name": "Pelota Perro x3",
-            "marca": "KONG",
             "price": 20400,
-            "image": "https://petlandscol.com/wp-content/uploads/2020/12/Diseno-sin-titulo-2020-12-12T181413.624-300x300.png",
-            "category": "dog",
+            "image": "https://t3.ftcdn.net/jpg/00/28/62/96/240_F_28629655_HxSwVNAVuCvhTM4vwitSz3F4n0x8FLqM.jpg",
+            "category": "accessories",
             "description": "Pelota perro sports balls kong large x 3 para perro, duro, marca kong. Estos juguetes, hechos con paredes de caucho muy gruesas, son lo suficientemente resistentes como para aguantar juegos intensos de buscar y recoger. Lánzalas y mira cómo tu perro se vuelve loco con estas resistentes pelotas saltarinas"
         },
         {
             "id": 17,
             "name": "Pelota Perro x2",
-            "marca": "KONG",
             "price": 18400,
-            "image": "https://petlandscol.com/wp-content/uploads/2020/12/Diseno-sin-titulo-2020-12-12T181651.682.png",
-            "category": "dog",
+            "image": "https://t3.ftcdn.net/jpg/02/97/75/90/240_F_297759008_fBwFqkOT0D9npVGZOr6aDJ8IwSRp4hJa.jpg",
+            "category": "accessories",
             "description": "Pelota perro sports balls kong large x 2 para perro, duro, marca kong. Estos juguetes, hechos con paredes de caucho muy gruesas, son lo suficientemente resistentes como para aguantar juegos intensos de buscar y recoger. Lánzalas y mira cómo tu perro se vuelve loco con estas resistentes pelotas saltarinas"
         },
         {
             "id": 18,
             "name": "Correa Reflectiva color rojo",
-            "marca": "TRADO",
             "price": 37000,
-            "image": "https://petlandscol.com/wp-content/uploads/2021/01/Diseno-sin-titulo-2021-01-13T112831.119-300x300.png",
-            "category": "dog",
+            "image": "https://t4.ftcdn.net/jpg/02/97/75/89/240_F_297758952_pxJ8UcDXkzDiwRf9iOJ2afAX1O1U4qgk.jpg",
+            "category": "accessories",
             "description": "Correa Reflectiva hecha en Neopreno Azul que brinda a tu perro la comodidad que necesita. Hecha con materiales de alta calidad como el Nylon, neopreno y el poliester. Trailla Classic Series Rojo S 1.3X152CM"
         },
         {
             "id": 19,
             "name": "Correa Reflectiva color negro",
-            "marca": "TRADO",
             "price": 33800,
-            "image": "https://petlandscol.com/wp-content/uploads/2021/01/Diseno-sin-titulo-2021-01-13T111002.018-300x300.png",
-            "category": "dog",
+            "image": "https://t3.ftcdn.net/jpg/02/97/76/06/240_F_297760669_mWfZc1SME4eOwVH79ps3221aBKmzvn2Y.jpg",
+            "category": "accessories",
             "description": "Correa Reflectiva hecha en Neopreno Azul que brinda a tu perro la comodidad que necesita. Hecha con materiales de alta calidad como el Nylon, neopreno y el poliester. Trailla Classic Series Negro S 1.3X152CM"
         },
         {
             "id": 20,
             "name": "Kong Perro Peluche Cozie Leon Azul - Grande",
-            "marca": "KONG",
             "price": 37000,
-            "image": "https://petlandscol.com/wp-content/uploads/2020/12/Diseno-sin-titulo-2020-12-12T180449.576-300x300.png",
-            "category": "dog",
+            "image": "https://t4.ftcdn.net/jpg/02/97/75/91/240_F_297759109_GSkhBc3aQEZQkfzfFOB92aLMz0YEV6kc.jpg",
+            "category": "accessories",
             "description": "Peluche para perro, elaborado en materiales restentes a las mordidas"
         },
         {
             "id": 21,
             "name": "Alimento Seco Para Gato Pro Plan Live Clear Chicken And Rice - 3.5 Lb",
-            "marca": "Pro Plan",
             "price": 56000,
-            "image": "https://petlandscol.com/wp-content/uploads/2021/12/Diseno-sin-titulo-2021-12-11T151955.474-300x300.png",
-            "category": "cat",
+            "image": "https://t4.ftcdn.net/jpg/02/65/49/51/240_F_265495145_IPTquzPFvHaNZGWmjD2JcRm5d46dxjz6.jpg",
+            "category": "accessories",
             "description": "Alimento completo y balanceado para gatos adultos de 1 a 7 años. Reduce significativamente los alérgenos en el pelo y la caspa del gato elaborado con carne de pollo."
         },
         {
             "id": 22,
             "name": "Alimento Gatos Pro Plan Cat Vital Age Adult +7 - 3 Kg",
-            "marca": "Pro Plan",
             "price": 56000,
-            "image": "https://petlandscol.com/wp-content/uploads/2021/01/Diseno-sin-titulo-2021-12-11T150650.742-300x300.png",
-            "category": "cat",
+            "image": "https://t3.ftcdn.net/jpg/03/87/84/48/240_F_387844868_AaK6cLtlE5CqXrGjHqmSkFjbO07eaxIa.jpg",
+            "category": "accessories",
             "description": "Alimento completo y balanceado para gatos de 7 o más años. Es una tecnología exclusiva, formulada con una novedosa mezcla de aminoácidos, antioxidantes naturales, vitaminas del complejo B y omega 3 y 6, para ayudar a proteger y mantener la actividad cerebral y retrasar los signos del envejecimiento de tu gato."
         },
         {
             "id": 23,
             "name": "Alimento Gatos PRO PLAN Cat Sensitive X 3 kg",
-            "marca": "Pro Plan",
             "price": 56000,
-            "image": "https://petlandscol.com/wp-content/uploads/2021/01/Diseno-sin-titulo-2021-12-11T151108.606-300x300.png",
-            "category": "cat",
+            "image": "https://t4.ftcdn.net/jpg/03/65/28/03/240_F_365280312_6yUddggdfm6skAsyAg6NPEftU33n9Cc6.jpg",
+            "category": "accessories",
             "description": "Purina Pro Plan Sensitive con Optiderma es un alimento para gatos adultos con sensibilidad alimentaria. Esta sensibilidad se puede ver reflejada como trasntornos en la piel, el pelo o el sistema digestivo. Es una comida para gatos de Proplan que se elabora con carne fresca de salmón para disminuir la probabilidad de activar alguna sensibilidad. Su objetivo es mantener saludables las áreas que podrían ser afectadas por las alergías causadas por alimentos. "
         },
         {
             "id": 24,
             "name": "Alimento Gatos PRO PLAN Cat Sensitive X 3 kg",
-            "marca": "Pro Plan",
             "price": 56000,
-            "image": "https://petlandscol.com/wp-content/uploads/2021/01/Diseno-sin-titulo-2021-12-11T151342.097-300x300.png",
-            "category": "cat",
+            "image": "https://t4.ftcdn.net/jpg/02/97/76/03/240_F_297760360_wlTKfUp26ZbHBiBfuWyuNb3C0XGH3prq.jpg",
+            "category": "accessories",
             "description": "Purina Pro Plan Sensitive con Optiderma es un alimento para gatos adultos con sensibilidad alimentaria. Esta sensibilidad se puede ver reflejada como trasntornos en la piel, el pelo o el sistema digestivo. Es una comida para gatos de Proplan que se elabora con carne fresca de salmón para disminuir la probabilidad de activar alguna sensibilidad. Su objetivo es mantener saludables las áreas que podrían ser afectadas por las alergías causadas por alimentos. "
         },
         {
             "id": 25,
             "name": "Alimento Gatos PRO PLAN Cat Urinary X 3 kg",
-            "marca": "Pro Plan",
             "price": 56000,
-            "image": "https://petlandscol.com/wp-content/uploads/2020/12/3-6-300x300.png",
-            "category": "cat",
+            "image": "https://t4.ftcdn.net/jpg/00/65/73/51/240_F_65735164_amrSR86JunHNnze87CyPFvO1WXTDVRhv.jpg",
+            "category": "accessories",
             "description": "Alimento completo y balanceado para gatos adultos. Es una tecnología exclusiva, que incluye una combinación de nutrientes que ayuda a prevenir la formación de cristales de estruvita y de oxalato, manteniendo y protegiendo la salud del tracto urinario inferior de los gatos adultos. "
         },
         {
             "id": 26,
             "name": "Alimento Gatos Monello Cat Castrados x 1 Kg.",
-            "marca": "Monello",
             "price": 15800,
-            "image": "https://petlandscol.com/wp-content/uploads/2020/12/1-2-300x300.png",
-            "category": "cat",
+            "image": "https://t4.ftcdn.net/jpg/00/73/54/39/240_F_73543935_uGYciNGNEcRkFdTPOT5saOf55fSDEegz.jpg",
+            "category": "accessories",
             "description": "Es el alimento perfecto para gatos adultos castrados que necesitan una comida premium especial la cual  supla todas sus necesidades. Al momento de castrar a un gato disminuye la emisión de energía, aumentando el peso en el mismo, por esto Monello Cat Castrados, controla su energía y lo mantiene saludable controlando su peso."
         },
         {
             "id": 27,
             "name": "Alimento Gatos Monello Cat Gatitos x 1 Kg.",
-            "marca": "Monello",
             "price": 15800,
-            "image": "https://petlandscol.com/wp-content/uploads/2020/12/2-4-300x300.png",
-            "category": "cat",
+            "image": "https://t4.ftcdn.net/jpg/00/65/36/19/240_F_65361970_Q3drLBYIjKpPUbxW5aSOysU2cTYgYkyp.jpg",
+            "category": "accessories",
             "description": "Monello Gatitos PREMIUM ESPECIAL contiene leche en su formulación, además de tener 0% de colorantes y saborizantes artificiales. Es un alimento con alta digestibilidad y contiene taurina que opera en la salud de la visión y el corazón. También tiene ingredientes que ayudan a prevenir los cálculos urinarios."
         },
         {
-            "id": 27,
+            "id": 28,
             "name": "Alimento Gatos Monello Cat Gatitos x 1 Kg.",
-            "marca": "Monello",
             "price": 15800,
-            "image": "https://petlandscol.com/wp-content/uploads/2020/12/2-4-300x300.png",
-            "category": "cat",
+            "image": "https://t4.ftcdn.net/jpg/04/18/87/39/240_F_418873979_v3gbGhTcI2PRemBfbD9MozpZmS6tOLl9.jpg",
+            "category": "accessories",
+            "description": "Monello Gatitos PREMIUM ESPECIAL contiene leche en su formulación, además de tener 0% de colorantes y saborizantes artificiales. Es un alimento con alta digestibilidad y contiene taurina que opera en la salud de la visión y el corazón. También tiene ingredientes que ayudan a prevenir los cálculos urinarios."
+        },
+        {
+            "id": 29,
+            "name": "Alimento Gatos Monello Cat Gatitos x 1 Kg.",
+            "price": 15800,
+            "image": "https://t3.ftcdn.net/jpg/00/58/46/10/240_F_58461095_2AhqFCXj2ic9qO03GwHmsRMpNfJ55Lqy.jpg",
+            "category": "accessories",
+            "description": "Monello Gatitos PREMIUM ESPECIAL contiene leche en su formulación, además de tener 0% de colorantes y saborizantes artificiales. Es un alimento con alta digestibilidad y contiene taurina que opera en la salud de la visión y el corazón. También tiene ingredientes que ayudan a prevenir los cálculos urinarios."
+        },
+        {
+            "id": 30,
+            "name": "Alimento Gatos Monello Cat Gatitos x 1 Kg.",
+            "price": 15800,
+            "image": "https://t4.ftcdn.net/jpg/02/65/49/51/240_F_265495163_p9izhiPZOBuunrMK7KjIUeJQZ8nHNEQ2.jpg",
+            "category": "accessories",
             "description": "Monello Gatitos PREMIUM ESPECIAL contiene leche en su formulación, además de tener 0% de colorantes y saborizantes artificiales. Es un alimento con alta digestibilidad y contiene taurina que opera en la salud de la visión y el corazón. También tiene ingredientes que ayudan a prevenir los cálculos urinarios."
         }
     ]
