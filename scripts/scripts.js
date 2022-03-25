@@ -2,25 +2,19 @@ import { showDataCarrito } from "../modules/carrito.js";
 import { showCards } from "../modules/showCard.js";
 import { showModal } from "../modules/showModal.js";
 
-let contenedorPerros = document.getElementById('containerdog');
-let contenedorGatos = document.getElementById('containercat');
-let contenedorOtrasMascotas = document.getElementById('containerothers');
+let contenedorAccesorios = document.getElementById('containeraccesories');
 let contenedorModalCarrito = document.getElementById('contenedorModalCarrito');
 let botonCarrito = document.getElementById('showCarrito')
 let dataCarrito = JSON.parse(localStorage.getItem('carrito'));
 let carrito = dataCarrito !== null ? dataCarrito : [] ;
 
 document.addEventListener('DOMContentLoaded', async () => {
-    let res = await fetch('http://localhost:4000/products');
+    let res = await fetch('http://localhost:3000/products');
     let data = await res.json();
 
-    let productosPerro = data.filter(item => item.category == 'accessories');
-    let productosGato = data.filter(item => item.category == 'cat');
-    let productosOtrasMascotas = data.filter(item => item.category == 'other');
-
-    showCards(productosPerro, contenedorPerros);
-    showCards(productosGato, contenedorGatos);
-    showCards(productosOtrasMascotas, contenedorOtrasMascotas);
+    let moños = data.filter(item => item.category == 'accessories');
+    
+    showCards(moños, contenedorAccesorios);
 })
 
 document.addEventListener('click', (e) => {

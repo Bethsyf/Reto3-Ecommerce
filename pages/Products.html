@@ -47,9 +47,12 @@
         
         <main class="card m-2">
             <section class="card-body">
+              <a id='showCarrito' data-bs-toggle="modal" data-bs-target="#modalCarrito"
+              class="btn btn-outline-primary d-block m-auto">Carrito</a>
                 
-                <div class="card m-6">
-                    <div id="containerdog" class="card-body mx-5">
+              <div class="card m-6">
+                    <div id="containeraccesories" class="card-body mx-5">
+                      <h4>Accesorios Princesa Hermosa Soy Yo</h4>
                     </div>
                 </div>
             </div>
@@ -57,26 +60,26 @@
     
     
         <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-            <div class="modal-dialog">
-                <div class="modal-content" id="contenedorModal">
+          <div class="modal-dialog">
+              <div class="modal-content" id="contenedorModal">
+  
+              </div>
+          </div>
+      </div>
     
+      <div class="modal fade" id="modalCarrito" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-xl">
+            <div class="modal-content" >
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Carrito</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class='row g-0' id="contenedorModalCarrito">
+                   
                 </div>
             </div>
         </div>
-    
-        <div class="modal fade" id="modalCarrito" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-            <div class="modal-dialog modal-xl">
-                <div class="modal-content" >
-                    <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLabel">Carrito</h5>
-                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                    </div>
-                    <div class='row g-0' id="contenedorModalCarrito">
-                       
-                    </div>
-                </div>
-            </div>
-        </div>
+    </div>
     </main>
 
         <footer>
@@ -86,6 +89,7 @@
       </div>
       <!-- Copyright --> 
         </footer>
+
     <script src="../scripts/scripts.js" type="module"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
