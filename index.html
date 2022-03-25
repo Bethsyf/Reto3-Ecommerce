@@ -5,47 +5,78 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="./images/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="./images/logo.png" type="image/x-icon">
     <link rel="stylesheet" href="./styles/styles.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <title>Inicio</title>
 </head>
 
 <body>
-    <header id="Cabecera">
-        <div id="cont-img"><a href="./index.html"><img src="./images/logo-pets.png" alt=""></a></div>
-        <div id="cont-cent">
-            <div id="cont-buscar"><input type="search" placeholder="Buscar productos">
-            <img id="lupa" src="./images/lupa.png" alt=""></div>
-            <div id="cont-tit"><h1>Tienda de Mascotas</h1></div>
-        </div>
-        <div><a href="./pages/carrito.html"><img id="carrito" src="./images/carrito.png" alt=""></a></div>
-    </header>   
-    <main>
-        <section>
-            <div><img id="img-bienv" src="./images/wepik-2022216-132847.jpg" alt=""></div>
-        </section>
-        <section>
-            <div id="cont-categ" >
-                <div class="tarjetas" ><h1>Perros</h1><a href="./pages/perros.html"><img src="./images/imagen perro.jpg" alt="imagen de perro"></a></div>
-                <div class="tarjetas"><h1>Gatos</h1><a href="./pages/gatos.html"><img src="./images/imagen gato.jpg" alt="imagen de gato"></a></div>
-                <div class="tarjetas"><h1>Otras Mascotas</h1><a href="./pages/otras-mascotas.html"><img src="./images/imagen-otras-mascotas.jpg" alt="imagen de otras mascotas"></a></div>
+    <header>
+        <!-- Navbar -->
+        <nav class="navbar navbar-expand-lg navbar-light bg-info">
+          <div class="container-fluid">
+            <button
+              class="navbar-toggler"
+              type="button"
+              data-mdb-toggle="collapse"
+              data-mdb-target="#navbarExample01"
+              aria-controls="navbarExample01"
+              aria-expanded="false"
+              aria-label="Toggle navigation"
+            >
+              <i class="fas fa-bars"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarExample01">
+              <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item active">
+                    <a  href="../index.html"><img class="w-25" src="./images/logo.png" alt=""></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="./pages/About.html">Sobre Nosotros</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="./pages/Products.html">Productos</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="./pages/Contact.html">Contáctanos</a>
+                </li>
+              </ul>
             </div>
-        </section>
-    </main>
-    <footer>
-        <section id="cont-footer">
-            <div >
-            <span>Medellín, Colombia</span></div>
+          </div>
+        </nav>
+        <!-- Navbar -->
+      
+        <!-- Background image -->
+        <div
+          class="p-5 text-center bg-image"
+          style="
+            background-image: url('https://as2.ftcdn.net/v2/jpg/02/45/21/71/1000_F_245217161_9lVRwgIHYLw1Wna8eLWgIVOn6BUctwxt.jpg');
+            height: 400px;
+          "
+        >
+          <div class="mask" style="background-color: rgba(223, 152, 211, 0.6);">
+            <div class="d-flex justify-content-center align-items-center h-100">
+              <div class="text-primary">
+                <h1 class="mb-3">Bienvenidos</h1>
+                <h4 class="mb-3">Aqui encontraras hermosos diseños de accesorios para el cabello que te encantaran</h4>
+                <a class="btn btn-outline-light btn-info" href="./pages/Products.html" role="button"
+                >Ver Productos</a
+                >
+              </div>
+            </div>
+          </div>
         </div>
-        <div id="contac">
-            <span>Contáctenos</span><br>
-            <span>(+57) 555 555 55 55</span>
-        <div Id="cont-redes">
-        <span>Síguenos en redes</span>
-        <div id="redes"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/640px-Facebook_Logo_%282019%29.png" alt="facebook">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="instagram">
-        </div></div></section>
-        <span id="by">Powered by team7</span>    
+        <!-- Background image -->
+      </header> 
+
+        <footer>
+        <!-- Copyright -->
+  <div class="footer-copyright text-center py-3">© 2022 Copyright:
+    
+  </div>
+  <!-- Copyright --> 
     </footer>
 </body>
 
