@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     let res = await fetch('http://localhost:4000/products');
     let data = await res.json();
 
-    let productosPerro = data.filter(item => item.category == 'dog');
+    let productosPerro = data.filter(item => item.category == 'accessories');
     let productosGato = data.filter(item => item.category == 'cat');
     let productosOtrasMascotas = data.filter(item => item.category == 'other');
 
