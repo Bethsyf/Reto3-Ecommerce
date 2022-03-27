@@ -1,2 +1,3 @@
 # Reto4-Ecommerce
-Desarrollar un Ecommerce
+Desarrollar una aplicación para  una Tienda de accesoros para el cabello
+
